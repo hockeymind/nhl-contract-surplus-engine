@@ -1,0 +1,1 @@
+{"n_train": 706, "n_test": 350, "forecast": 7.046730670417685, "forecast_market_adjusted": 6.737986329707475, "last_season_only": 7.165440644135803, "train_mean": 8.477419436333557, "bias_forecast": 1.3363578597309527, "weights": [-3.369, 0.843, 0.379, 0.225, -0.48], "adj": [-0.0, 1.0, 0.929]}
